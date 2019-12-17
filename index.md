@@ -1,19 +1,23 @@
 ## Portfolio
 Kelvin is a seasoned Data Scientist who have contributed to various sectors including Manufacturing, Financial and Training
 (as a trainer). He designs systems, architects databases, builds machine learning / deep learning models,
-and implements analytics and enterprise search solutions on highly secured banking production systems. These systems serve to
-optimize product yield, increase team productivity and efficiency, reduces manual labor and ultimately tries to elimate human errors.
+and implements analytics and enterprise search solutions on highly secured banking production systems. 
+
+These systems serve to optimise product yield, increase team productivity, introduces analytics and visibility, and reduces human errors.
 
 ---
 
-### Category Name 1 
+### Computer Vision + NLP 
+[A Neural Image Caption Generator](/pdf/image-captioning.pdf)
+<img src="images/test1.jpg?raw=true"/>
+
+---
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 [Project 3 Title](http://example.com/)
