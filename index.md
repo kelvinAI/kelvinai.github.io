@@ -1,4 +1,8 @@
 ## Portfolio
+Kelvin is a seasoned Data Scientist who have contributed to various sectors including Manufacturing, Financial and Training
+(as a trainer). He designs systems, architects databases, builds machine learning / deep learning models,
+and implements analytics and enterprise search solutions on highly secured banking production systems. These systems serve to
+optimize product yield, increase team productivity and efficiency, reduces manual labor and ultimately tries to elimate human errors.
 
 ---
 
