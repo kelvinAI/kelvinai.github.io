@@ -25,14 +25,17 @@ These systems serve to optimise product yield, increase team productivity, intro
 
 [Face Generation with GANs](https://github.com/kelvinAI/deep-learning/blob/master/face_generation/dlnd_face_generation.ipynb)  
 <img src="images/face-generation-gans.jpg?raw=true"/>  
-
+  
 [Tensorflow 1.3 Implementation](https://github.com/kelvinAI/deep-learning/blob/master/face_generation/dlnd_face_generation.ipynb)
+
 
 ---
 
-### NLP 
+### NLP
 
-
+[English - French Translation System](https://github.com/kelvinAI/deep-learning/blob/master/language-translation/dlnd_language_translation.ipynb)  
+<img src="images/nmt-model-fast.gif?raw=true"/>  
+[Tensorflow 1.3 Implementation](https://github.com/kelvinAI/deep-learning/blob/master/language-translation/dlnd_language_translation.ipynb)
 
 ---
 
