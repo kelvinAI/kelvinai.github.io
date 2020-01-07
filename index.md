@@ -12,7 +12,7 @@ These systems serve to optimise product yield, increase team productivity, intro
 <img src="images/test1.jpg?raw=true"/>
   
 [pytorch implementation](https://github.com/kelvinAI/image-captioning)
-
+[Image Captioning In Action!](https://www.facebook.com/AndroidDevInternational/) (Just Send a message to the page to get started!)
 ---
 
 ### Computer Vision
