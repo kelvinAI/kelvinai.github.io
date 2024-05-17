@@ -1,8 +1,12 @@
 ## Portfolio
-Kelvin is a seasoned Data Scientist who have contributed to various sectors including Manufacturing, Financial and Training
-(as a trainer). He designs systems, architects databases, builds machine learning / deep learning models,
-and implements analytics and enterprise search solutions on highly secured banking production systems.  
-These systems serve to optimise product yield, increase team productivity, introduces analytics and visibility, and reduces human errors.
+Kelvin is a lead Machine Learning Engineer with 14 years’ experience in software engineering, inclusive of 8 years in Machine Learning. He has a proven track record of delivering products in critical production environments including banking and manufacturing sectors, developing R&D AI prototypes into revenue generation products. He is also equipped with data science skills on top of ML with firm grasp of AI product lifecycle end to end. Collaborates and contributes to major open-source Github projects. Experienced leading small agile teams, providing software training, mentoring, speaking in conferences
+---
+
+### eKYC OCR Products
+Performs OCR on various identity documents to extract key value pairs
+<img src="images/sample_phdl.png?raw=true"/>  
+
+[OCR Demo](https://phdl.kelvink.click)
 
 ---
 
@@ -11,7 +15,7 @@ These systems serve to optimise product yield, increase team productivity, intro
   
 <img src="images/test1.jpg?raw=true"/>
   
-[Image Captioning In Action](https://www.facebook.com/AndroidDevInternational/) (Send a message to the page to get started!)
+
 ---
 
 ### Computer Vision
