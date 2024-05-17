@@ -5,10 +5,11 @@ Kelvin is a lead Machine Learning Engineer with 14 years’ experience in softwa
 ---
 
 ### eKYC OCR Products
-Performs OCR on various identity documents to extract key value pairs
+Performs OCR on various identity documents to extract key value pairs  
+
 <img src="images/sample_phdl.png?raw=true"/>  
 
-[OCR Demo](https://phdl.kelvink.click)
+[Live OCR Demo!](https://phdl.kelvink.click)
 
 ---
 
