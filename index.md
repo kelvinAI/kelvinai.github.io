@@ -1,5 +1,7 @@
 ## Portfolio
-Kelvin is a lead Machine Learning Engineer with 14 years’ experience in software engineering, inclusive of 8 years in Machine Learning. He has a proven track record of delivering products in critical production environments including banking and manufacturing sectors, developing R&D AI prototypes into revenue generation products. He is also equipped with data science skills on top of ML with firm grasp of AI product lifecycle end to end. Collaborates and contributes to major open-source Github projects. Experienced leading small agile teams, providing software training, mentoring, speaking in conferences
+Kelvin is a lead Machine Learning Engineer with 14 years’ experience in software engineering, inclusive of 8 years in Machine Learning. He has a proven track record of delivering products in critical production environments including banking and manufacturing sectors and transforming R&D AI prototypes into revenue generation products. He is also equipped with data science skills on top of ML with firm grasp of AI product lifecycle end to end. Kelvin also collaborates and contributes to major open-source Github projects. He also has experienced leading small agile teams, providing software training, mentoring, and speaking in tech conferences.  
+
+
 ---
 
 ### eKYC OCR Products
