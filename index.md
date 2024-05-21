@@ -10,7 +10,7 @@ Performs OCR on various identity documents to extract key value pairs
 <img src="images/sample_phdl.png?raw=true"/>  
 
 [Live OCR Demo!](https://phdl.kelvink.click)  
-Note that link may be down to prevent spam calls. To view the demo, please contact [me!](https://linkedin.com/in/kelvinkong)
+Note that link may be down to prevent spam calls. To view the demo, please contact [me](https://linkedin.com/in/kelvinkong)
 
 ---
 
